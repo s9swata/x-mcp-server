@@ -8,5 +8,10 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "twitter-api-v2": "^1.23.2",
+    "zod": "^3.25.28"
   }
 }
